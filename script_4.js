@@ -31,12 +31,12 @@ const entrepreneurs = [
 
 
 // quel age aura chaque inventeur aujourd'hui //
-function calculateAge
+function calculateAge = entrepreneurs
 
 
 
 
 // trier par ordre alphabétique //
-// const alpha = entrepreneurs.slice().sort((a, b) => a.last.localeCompare(b.last));
+// const alpha = entrepreneurs.sort((a, b) => a.last.localeCompare(b.last));
 // console.log(alpha);
 
